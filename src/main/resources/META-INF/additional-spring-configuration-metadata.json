@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "datasource.password",
+      "type": "java.lang.String",
+      "description": "Description for datasource.password."
+    },
+    {
+      "name": "jpa.default.properties.hibernate.physical_naming_strategy",
+      "type": "java.lang.String",
+      "description": "Description for jpa.default.properties.hibernate.physical_naming_strategy."
+    }
+  ] }
